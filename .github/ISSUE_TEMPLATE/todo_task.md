@@ -1,7 +1,7 @@
 ---
 name: ToDoテンプレート
 about: none
-title: "[タスク] "
+title: "[Task] "
 labels: task
 ---
 
