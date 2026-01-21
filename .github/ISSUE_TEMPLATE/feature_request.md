@@ -1,5 +1,5 @@
 ---
-name: 機能追加テンプレート（シンプル）
+name: 機能追加テンプレート
 about: ざっくり書きたいときの軽量版
 title: "[機能] "
 labels: enhancement
